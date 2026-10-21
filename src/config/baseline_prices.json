@@ -1,0 +1,21 @@
+{
+  "protocolVersion": "AegisRelief-v2.5-Sovereign",
+  "maxAllowedVariancePercent": 15,
+  "currencyReference": "USD",
+  "bdtExchangeRate": 120,
+  "emergencyZones": [
+    { "id": "SYL-01", "name": "Sylhet Sunamganj Flood Sector", "lat": 24.8949, "lng": 91.8687, "riskLevel": "CRITICAL" },
+    { "id": "CTG-02", "name": "Cox's Bazar Coastal Cyclone Grid", "lat": 21.4272, "lng": 92.0058, "riskLevel": "HIGH" },
+    { "id": "KHL-03", "name": "Satkhira Sundarbans Embankment Zone", "lat": 22.7185, "lng": 89.0705, "riskLevel": "HIGH" },
+    { "id": "KUR-04", "name": "Kurigram Brahmaputra Basin", "lat": 25.8054, "lng": 89.6362, "riskLevel": "MODERATE" }
+  ],
+  "commodities": [
+    { "id": "REL-RICE-50KG", "name": "Coarse Parboiled Relief Rice (50kg Sack)", "unit": "50kg Sack", "baselineUSD": 28.50, "baselineBDT": 3420, "category": "Food Security" },
+    { "id": "REL-LENTIL-25KG", "name": "Red Masoor Lentils (25kg Sack)", "unit": "25kg Sack", "baselineUSD": 27.00, "baselineBDT": 3240, "category": "Food Security" },
+    { "id": "REL-TARP-HD", "name": "Heavy-Duty Waterproof Shelter Tarpaulin (24x18ft)", "unit": "Piece", "baselineUSD": 14.00, "baselineBDT": 1680, "category": "Emergency Shelter" },
+    { "id": "REL-AQUATAB-1000", "name": "Halazone Water Purification Tablets (1000 Box)", "unit": "Box", "baselineUSD": 9.50, "baselineBDT": 1140, "category": "WASH & Hygiene" },
+    { "id": "REL-ORS-500", "name": "Oral Rehydration Salts (ORS Packet Box of 500)", "unit": "Box", "baselineUSD": 22.00, "baselineBDT": 2640, "category": "Medical & Trauma" },
+    { "id": "REL-MEDKIT-TRAUMA", "name": "Field Emergency First-Aid & Cholera Kit", "unit": "Kit", "baselineUSD": 45.00, "baselineBDT": 5400, "category": "Medical & Trauma" },
+    { "id": "REL-SOLAR-LANTERN", "name": "Waterproof Solar LED Rescue Lantern", "unit": "Unit", "baselineUSD": 11.00, "baselineBDT": 1320, "category": "Rescue Gear" }
+  ]
+}

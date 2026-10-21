@@ -1,0 +1,5 @@
+file 'C:/Users/WALTON/.gemini/antigravity/scratch/aegis-relief-sovereign/public/audio/scene1.mp3'
+file 'C:/Users/WALTON/.gemini/antigravity/scratch/aegis-relief-sovereign/public/audio/scene2.mp3'
+file 'C:/Users/WALTON/.gemini/antigravity/scratch/aegis-relief-sovereign/public/audio/scene3.mp3'
+file 'C:/Users/WALTON/.gemini/antigravity/scratch/aegis-relief-sovereign/public/audio/scene4.mp3'
+file 'C:/Users/WALTON/.gemini/antigravity/scratch/aegis-relief-sovereign/public/audio/scene5.mp3'

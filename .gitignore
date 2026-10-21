@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing and Automation artifacts
+coverage/
+temp_recordings/
+temp_video/
+*.webm
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Production builds
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment variables & secrets (MANDATORY: DO NOT COMMIT REAL KEYS)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*
+!.env.example
+
+# Debug and Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/*
+!.vscode/extensions.json
+.idea/

@@ -5,6 +5,7 @@
 **Solving the Blockchain Oracle Problem with a Heterogeneous 3-Model AI Committee & Invisible Web3 Relayer**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-aegisrelief--sovereign.vercel.app-blue?logo=vercel)](https://aegisrelief-sovereign.vercel.app)
 [![Network](https://img.shields.io/badge/Network-Polygon%20Amoy%20(80002)-cyan.svg)](https://amoy.polygonscan.com/address/0x8A791620dd6260079BF849Dc5567aDC3F2FdC318)
 [![Account Abstraction](https://img.shields.io/badge/ERC--4337-Gasless%20Relayer%20($0.00)-purple.svg)](#account-abstraction--erc-4337)
 [![Multi-Oracle](https://img.shields.io/badge/AI%20Quorum-2--of--3%20Heterogeneous%20Consensus-blue.svg)](#heterogeneous-3-model-ai-oracle-committee)
@@ -13,7 +14,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0%20Strict-blue.svg)](tsconfig.json)
 [![Status](https://img.shields.io/badge/Protocol%20Status-8K%20Enterprise%20Production-success.svg)](#)
 
-[🎬 Watch 3-Min Pitch Video](https://youtu.be/-5au4WG9sXw) • [📖 Architecture Spec](ARCHITECTURE.md) • [🔒 Security Model](SECURITY.md) • [🌐 Genesis Pilot](#genesis-pilot-ground--bangladesh)
+[🚀 Live Production App](https://aegisrelief-sovereign.vercel.app) • [🎬 Watch 3-Min Pitch Video](https://youtu.be/-5au4WG9sXw) • [📖 Architecture Spec](ARCHITECTURE.md) • [🔒 Security Model](SECURITY.md) • [🌐 Genesis Pilot](#genesis-pilot-ground--bangladesh)
 
 </div>
 
@@ -217,7 +218,31 @@ npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-### 4. Interactive In-App Features
+### 4. Vercel Production Cloud Deployment
+Deploy to Vercel in 60 seconds with either method:
+
+#### Option A: One-Click GitHub Import (Recommended)
+1. Navigate to **[vercel.com/new](https://vercel.com/new)**.
+2. Select and import **`fokrulanthro16-eng/aegisrelief-sovereign`**.
+3. Under **Environment Variables**, paste the following keys:
+   - `GEMINI_API_KEY`: *(Your Google Gemini Flash key)*
+   - `NEBIUS_API_KEY`: *(Your Nebius AI Studio key)*
+   - `HF_API_KEY`: *(Your Hugging Face Inference key)*
+   - `NEXT_PUBLIC_RPC_URL`: `https://rpc-amoy.polygon.technology`
+   - `NEXT_PUBLIC_CONTRACT_ADDRESS`: `0x8A791620dd6260079BF849Dc5567aDC3F2FdC318`
+   - `NEXT_PUBLIC_CHAIN_ID`: `80002`
+4. Click **Deploy**. Vercel will automatically provision the edge network and build the Next.js App Router app.
+
+#### Option B: Vercel CLI
+```bash
+# 1. Log in or supply personal access token
+vercel login
+
+# 2. Deploy to production
+vercel --prod
+```
+
+### 5. Interactive In-App Features
 - Click **`▶ Auto-Pilot Pitch (Voiceover)`** in the top header for an automated 5-scene guided tour with live teleprompter subtitles and neural voice narration!
 - Test the 3 Judge Simulation Presets:
   - **Preset A**: Authentic Sylhet Relief (Score 96 • Payment Disbursed • BDT Off-Ramp)

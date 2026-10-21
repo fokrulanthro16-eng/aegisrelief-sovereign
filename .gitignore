@@ -28,6 +28,10 @@ next-env.d.ts
 .env.*
 !.env.example
 
+# Binaries & Tunnels
+cloudflared.exe
+*.exe
+
 # Debug and Logs
 logs/
 *.log

@@ -5,7 +5,7 @@
 **Solving the Blockchain Oracle Problem with a Heterogeneous 3-Model AI Committee & Invisible Web3 Relayer**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-aegisrelief--sovereign.vercel.app-blue?logo=vercel)](https://aegisrelief-sovereign.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Live%20Public%20HTTPS%20Deployment-success?logo=cloudflare)](https://cord-reports-phase-leasing.trycloudflare.com)
 [![Network](https://img.shields.io/badge/Network-Polygon%20Amoy%20(80002)-cyan.svg)](https://amoy.polygonscan.com/address/0x8A791620dd6260079BF849Dc5567aDC3F2FdC318)
 [![Account Abstraction](https://img.shields.io/badge/ERC--4337-Gasless%20Relayer%20($0.00)-purple.svg)](#account-abstraction--erc-4337)
 [![Multi-Oracle](https://img.shields.io/badge/AI%20Quorum-2--of--3%20Heterogeneous%20Consensus-blue.svg)](#heterogeneous-3-model-ai-oracle-committee)
@@ -14,7 +14,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0%20Strict-blue.svg)](tsconfig.json)
 [![Status](https://img.shields.io/badge/Protocol%20Status-8K%20Enterprise%20Production-success.svg)](#)
 
-[🚀 Live Production App](https://aegisrelief-sovereign.vercel.app) • [🎬 Watch 3-Min Pitch Video](https://youtu.be/-5au4WG9sXw) • [📖 Architecture Spec](ARCHITECTURE.md) • [🔒 Security Model](SECURITY.md) • [🌐 Genesis Pilot](#genesis-pilot-ground--bangladesh)
+[🚀 Live Production App (Instant Public Access)](https://cord-reports-phase-leasing.trycloudflare.com) • [🎬 Watch 3-Min Pitch Video](https://youtu.be/-5au4WG9sXw) • [📖 Architecture Spec](ARCHITECTURE.md) • [🔒 Security Model](SECURITY.md) • [🌐 Genesis Pilot](#genesis-pilot-ground--bangladesh)
 
 </div>
 

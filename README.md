@@ -14,7 +14,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0%20Strict-blue.svg)](tsconfig.json)
 [![Status](https://img.shields.io/badge/Protocol%20Status-8K%20Enterprise%20Production-success.svg)](#)
 
-[🚀 Live Production App (Instant Public Access)](https://cord-reports-phase-leasing.trycloudflare.com) • [🎬 Watch 3-Min Pitch Video](https://youtu.be/-5au4WG9sXw) • [📖 Architecture Spec](ARCHITECTURE.md) • [🔒 Security Model](SECURITY.md) • [🌐 Genesis Pilot](#genesis-pilot-ground--bangladesh)
+[🚀 Live Production App (Public HTTPS)](https://cord-reports-phase-leasing.trycloudflare.com) • [📜 Live Deployments](DEPLOYMENTS.md) • [🎬 Watch 3-Min Pitch Video](https://youtu.be/-5au4WG9sXw) • [📖 Architecture Spec](ARCHITECTURE.md) • [🔒 Security Model](SECURITY.md) • [🌐 Genesis Pilot](#genesis-pilot-ground--bangladesh)
 
 </div>
 

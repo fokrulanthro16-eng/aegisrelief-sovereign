@@ -51,12 +51,17 @@ Click below to watch the complete 5-scene video pitch narrated with studio-grade
 | 01. 8K Enterprise Mission Control Overview | 02. Authentic Relief Approved & Automated BDT Off-Ramp |
 | :---: | :---: |
 | ![Mission Control Overview](docs/screenshots/01-mission-control-overview.png) | ![Authentic Relief Approved](docs/screenshots/02-preset-a-authentic-approved.png) |
-| **Full dashboard with sparkline KPIs, 3-model oracle cards, and jurisdiction selector** | **Preset A: Sylhet flood procurement verified (Score 96), $0 gas payout, ৳139,004 BDT credited** |
+| **Full dashboard with clamped sparkline KPIs, 3-model oracle cards, and global jurisdiction selector** | **Preset A: Sylhet flood procurement verified (Score 96), $0 gas payout, ৳139,004 BDT credited** |
 
-| 03. Syndicate Fraud Intercepted & Escrow Frozen | 04. Layer-3 SHA-256 Anti-Replay Guard & Telemetry |
+| 03. Syndicate Fraud Intercepted & Escrow Frozen | 04. Layer-3 SHA-256 Anti-Replay Guard |
 | :---: | :---: |
 | ![Syndicate Fraud Blocked](docs/screenshots/03-preset-b-syndicate-fraud-blocked.png) | ![Replay Attack Guard](docs/screenshots/04-preset-c-replay-attack-guard.png) |
-| **Preset B: +208.7% Arial Bold price gouge caught by Nebius Llama-3.3; $0 disbursed, funds frozen** | **Preset C: Double-spend blocked via on-chain hash guard; zkPass DID & Sentinel-1 SAR verified** |
+| **Preset B: +208.7% Arial Bold price gouge caught by Nebius Llama-3.3; $0 disbursed, funds frozen** | **Preset C: Double-spend blocked via on-chain hash guard `isReceiptHashUsed[bytes32]`** |
+
+| 05. Field Worker Controls & Satellite Telemetry | 06. Immutable On-Chain Forensic Ledger & CLI |
+| :---: | :---: |
+| ![Field Worker Telemetry](docs/screenshots/05-field-worker-portal-telemetry.png) | ![Forensic Ledger and CLI](docs/screenshots/06-on-chain-forensic-ledger.png) |
+| **Dynamic Disaster Severity Multipliers (15% to 40%), camp tokens, and Sentinel-1 SAR Radar (0.884)** | **Permanent on-chain verified ledger records, real-time multi-agent CLI logs, and Tactical Globe** |
 
 ---
 
